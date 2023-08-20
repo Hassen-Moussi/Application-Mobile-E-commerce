@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966074918143",
+    "project_id": "dyno-otp-a9d6a",
+    "storage_bucket": "dyno-otp-a9d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966074918143:android:280f43346bc5182c9358ca",
+        "android_client_info": {
+          "package_name": "com.example.dyno_mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966074918143-2kkuudqo2s9pian6n09o9116610f7865.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbZbXiSHkyqOdoawq9SUKGbMVh8WH_-2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966074918143-2kkuudqo2s9pian6n09o9116610f7865.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
